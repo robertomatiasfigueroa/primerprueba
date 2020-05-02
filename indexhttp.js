@@ -5,7 +5,7 @@ const colors=require('colors');
 const server=express();
 
 server.get('/',function(req,res){
-   res.send('<h1>Hola Mundo con Express y NodeJS');
+   res.send('<h1>Hola Mundo con Express y NodeJS y Git');
    res.end();
 });
 
