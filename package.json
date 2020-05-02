@@ -1,0 +1,21 @@
+{
+  "name": "nodejsprueba1",
+  "version": "1.0.0",
+  "description": "Prueba 1 de NodeJS de RF",
+  "main": "indexhttp.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node indexhttp.js",
+    "pruebaos": "node indexos.js"
+  },
+  "keywords": [
+    "prueba",
+    "NodeJS"
+  ],
+  "author": "Roberto Figueroa",
+  "license": "ISC"
+}
